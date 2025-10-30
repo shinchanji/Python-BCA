@@ -2,3 +2,4 @@
 string = "Nice"
 for char in string:
     print(char)
+#Brijesh nigam
